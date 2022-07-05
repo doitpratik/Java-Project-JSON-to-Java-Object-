@@ -38,4 +38,4 @@
     
  # Output :
     Image of Output Screen
-    ![JSON_to_JAVAObj image](https://user-images.githubusercontent.com/65550720/177305110-15e17c8f-2ed8-42ce-bc88-5d44a26d40e3.PNG)
+ ![JSON_to_JAVAObj image](https://user-images.githubusercontent.com/65550720/177305110-15e17c8f-2ed8-42ce-bc88-5d44a26d40e3.PNG)
