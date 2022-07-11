@@ -16,7 +16,7 @@ public class Employee implements Serializable {
     private int empNo;
     private String empName;
     //Ignore annotation ignores the attribute
-    @JsonIgnore
+    //@JsonIgnore
     private double salary;
 
     public int getEmpNo() {
